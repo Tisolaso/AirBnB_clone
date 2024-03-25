@@ -35,8 +35,7 @@
 
 .place {
   display: flex;
-  justify-content: end;
-  gap: 60px;
+  justify-content: center;
 }
 
 .information {
@@ -73,9 +72,5 @@
 
 .user {
   margin: 10px 0;
-}
-
-footer {
-  position: relative;
 }
 
